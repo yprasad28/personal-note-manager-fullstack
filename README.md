@@ -14,6 +14,8 @@ This project is built using React for the front-end and Node.js for the back-end
 - Responsive design for both desktop and mobile devices.
 - Persistent storage using a database.
 
+ ![image alt](https://github.com/yprasad28/personal-note-manager-fullstack/blob/ae90e962c4773f964dde00bce09f342c968d60cf/Screenshot%202024-11-23%20171512.png)
+
 ## Technologies Used
 
 - **Front-end**: 
